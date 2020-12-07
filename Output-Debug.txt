@@ -1,0 +1,65 @@
+﻿'SimpleDirect2dApplication.exe': Loaded 'C:\Users\Kolya\Desktop\SimpleDirect2DApplication\Debug\SimpleDirect2dApplication.exe', Symbols loaded.
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\d2d1.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\msvcrt.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\user32.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\gdi32.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\lpk.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\usp10.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\advapi32.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\sechost.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\rpcrt4.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\sspicli.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\cryptbase.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\DWrite.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\ole32.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\msvcr100d.dll', Symbols loaded.
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\imm32.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\msctf.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\uxtheme.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\clbcatq.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\oleaut32.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\WindowsCodecs.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\dwmapi.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\dxgi.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\version.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\setupapi.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\cfgmgr32.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\devobj.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\wintrust.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\crypt32.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\msasn1.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Unloaded 'C:\Windows\SysWOW64\setupapi.dll'
+'SimpleDirect2dApplication.exe': Unloaded 'C:\Windows\SysWOW64\devobj.dll'
+'SimpleDirect2dApplication.exe': Unloaded 'C:\Windows\SysWOW64\cfgmgr32.dll'
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\d3d10_1.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\d3d10_1core.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\psapi.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\atiuxpag.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\atidxx32.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\shell32.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\shlwapi.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\WICCodecs\{A6D092A4-081A-4F0E-9356-DA167E87D922}\Raw Formats\Canon\x86\CanonCodecCHKD.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\WICCodecs\{A6D092A4-081A-4F0E-9356-DA167E87D922}\Raw Converter\x86\RAWCodec.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\WICCodecs\{A6D092A4-081A-4F0E-9356-DA167E87D922}\Raw Converter\x86\vcomp90.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\ws2_32.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Windows\SysWOW64\nsi.dll', Cannot find or open the PDB file
+'SimpleDirect2dApplication.exe': Loaded 'C:\Program Files (x86)\ABBYY Lingvo 12\LvHook.dll', Binary was not built with debug information.
+The thread 'Win32 Thread' (0xbb0) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x1238) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x1604) has exited with code 0 (0x0).
+'SimpleDirect2dApplication.exe': Unloaded 'C:\Windows\SysWOW64\atidxx32.dll'
+'SimpleDirect2dApplication.exe': Unloaded 'C:\Windows\SysWOW64\atiuxpag.dll'
+'SimpleDirect2dApplication.exe': Unloaded 'C:\Windows\WICCodecs\{A6D092A4-081A-4F0E-9356-DA167E87D922}\Raw Converter\x86\RAWCodec.dll'
+'SimpleDirect2dApplication.exe': Unloaded 'C:\Windows\SysWOW64\ws2_32.dll'
+'SimpleDirect2dApplication.exe': Unloaded 'C:\Windows\SysWOW64\nsi.dll'
+'SimpleDirect2dApplication.exe': Unloaded 'C:\Windows\WICCodecs\{A6D092A4-081A-4F0E-9356-DA167E87D922}\Raw Converter\x86\vcomp90.dll'
+'SimpleDirect2dApplication.exe': Unloaded 'C:\Windows\WICCodecs\{A6D092A4-081A-4F0E-9356-DA167E87D922}\Raw Formats\Canon\x86\CanonCodecCHKD.dll'
+'SimpleDirect2dApplication.exe': Unloaded 'C:\Windows\SysWOW64\shell32.dll'
+'SimpleDirect2dApplication.exe': Unloaded 'C:\Windows\SysWOW64\shlwapi.dll'
+'SimpleDirect2dApplication.exe': Unloaded 'C:\Windows\SysWOW64\WindowsCodecs.dll'
+The thread 'Win32 Thread' (0x74c) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x1a7c) has exited with code 0 (0x0).
+The program '[6348] SimpleDirect2dApplication.exe: Native' has exited with code 0 (0x0).

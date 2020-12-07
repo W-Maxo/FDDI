@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SimpleDirect2dApplication">
+</Property><Property Name="Solution File" Value="C:\Users\Kolya\Desktop\SimpleDirect2DApplication\SimpleDirect2dApplication.sln">
+</Property><Property Name="Date" Value="9 апреля 2011 г.">
+</Property><Property Name="Time" Value="11:04">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SimpleDirect2dApplication.sln" Description="File successfully backed up as C:\Users\Kolya\Desktop\SimpleDirect2DApplication\SimpleDirect2dApplication.sln.old">
+</Event><Event ErrorLevel="0" Project="SimpleDirect2dApplication" Source="SimpleDirect2dApplication.vcproj" Description="Converting project file 'C:\Users\Kolya\Desktop\SimpleDirect2DApplication\SimpleDirect2dApplication.vcproj'.">
+</Event><Event ErrorLevel="1" Project="SimpleDirect2dApplication" Source="SimpleDirect2dApplication.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="SimpleDirect2dApplication" Source="SimpleDirect2dApplication.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="SimpleDirect2dApplication" Source="SimpleDirect2dApplication.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="SimpleDirect2dApplication" Source="SimpleDirect2dApplication.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="SimpleDirect2dApplication" Source="SimpleDirect2dApplication.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="SimpleDirect2dApplication" Source="SimpleDirect2dApplication.vcproj" Description="Done converting to new project file 'C:\Users\Kolya\Desktop\SimpleDirect2DApplication\SimpleDirect2dApplication.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="SimpleDirect2dApplication" Source="SimpleDirect2dApplication.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SimpleDirect2dApplication.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SimpleDirect2dApplication.sln" Description="Converted">
+</Event></UpgradeLog>
