@@ -6,11 +6,11 @@
 // Copyright (c) Microsoft Corporation. All rights reserved
 #include "windows.h"
 
-SampleImage Image "Computer.ico"
-SampleImage_gr Image Computer_gr.ico
-bulb Image bulb_1_48.png
-warning_blue Image warning_blue_48.png
-warning_red Image warning_red_48.png
-warning_yellow Image warning_yellow_48.png
-warning_green Image warning_green_48.png
-envelop Image envelop_2_48.png
+SampleImage Image Img/Computer.ico
+SampleImage_gr Image Img/Computer_gr.ico
+bulb Image Img/bulb_1_48.png
+warning_blue Image Img/warning_blue_48.png
+warning_red Image Img/warning_red_48.png
+warning_yellow Image Img/warning_yellow_48.png
+warning_green Image Img/warning_green_48.png
+envelop Image Img/envelop_2_48.png
